@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python3
+#!/usr/bin/python3
 """
 Host = 0.0.0.0, port = 5000
 Routes:
