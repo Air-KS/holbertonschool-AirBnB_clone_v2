@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """ State Module for HBNB project """
-"""Defines the State class."""
 import models
 from os import getenv
 from models.base_model import Base
